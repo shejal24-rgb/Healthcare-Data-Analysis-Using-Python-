@@ -1,0 +1,33 @@
+
+Patient_ID,Age,Gender,Medical_Condition,Hospital,Treatment_Cost
+P001,25,Female,Diabetes,City Hospital,15000
+P002,34,Male,Asthma,General Hospital,8500
+P003,45,Female,Hypertension,City Hospital,12000
+P004,52,Male,Heart Disease,Metro Hospital,45000
+P005,29,Female,Asthma,General Hospital,7500
+P006,61,Male,Diabetes,Metro Hospital,22000
+P007,38,Female,Hypertension,City Hospital,11000
+P008,47,Male,Heart Disease,General Hospital,38000
+P009,23,Female,Asthma,Metro Hospital,6500
+P010,56,Male,Diabetes,City Hospital,18000
+P011,31,Female,Hypertension,General Hospital,9500
+P012,42,Male,Asthma,Metro Hospital,8000
+P013,67,Female,Heart Disease,City Hospital,50000
+P014,36,Male,Diabetes,General Hospital,16000
+P015,28,Female,Asthma,City Hospital,7000
+P016,50,Male,Hypertension,Metro Hospital,14000
+P017,44,Female,Diabetes,General Hospital,17000
+P018,59,Male,Heart Disease,Metro Hospital,42000
+P019,33,Female,Hypertension,City Hospital,10500
+P020,40,Male,Asthma,General Hospital,9000
+P021,26,Female,Diabetes,Metro Hospital,13000
+P022,63,Male,Hypertension,City Hospital,15500
+P023,48,Female,Heart Disease,General Hospital,39000
+P024,35,Male,Asthma,City Hospital,8200
+P025,54,Female,Diabetes,Metro Hospital,21000
+P026,30,Male,Hypertension,General Hospital,9800
+P027,72,Female,Heart Disease,Metro Hospital,52000
+P028,41,Male,Diabetes,City Hospital,16500
+P029,24,Female,Asthma,General Hospital,6800
+P030,46,Male,Hypertension,Metro Hospital,12500
+```
